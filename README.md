@@ -150,7 +150,7 @@ Résultat : Les prompts bien structurés améliorent la pertinence, mais ne suf
 
 # L'équipe projet
 
-- Matthieu Farcot, Lycée Louis de Cormontaigne : Responsable de projet, Création site web, Création ressources graphiques, Choix plateforme
+- Matthieu Farcot, Lycée Louis de Cormontaigne : Responsable de projet, Création site web, Création ressources graphiques, Choix plateforme, Encadrement
 - Enzo Theveniaud, stagiaire 2PRO TNE (Transition Numérique et Enérgétique), Lycée Louis de Cormontaigne : Benchmarks, Recherche sur le system prompt, Travail sur le démonstrateur, génération des ressources de test
 - Cédric Willigsecker Miot, stagiaire 2PRO TNE (Transition Numérique et Enérgétique), Lycée Louis de Cormontaigne : Modèle 3D du logo, Intégration A-Frame
 
