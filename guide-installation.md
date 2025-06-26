@@ -1,8 +1,7 @@
 # Guide d'installation
 
 ## Étape 1  
-Ouvrez votre navigateur internet, recherchez **"LM Studio"** dans un moteur de recherche, puis cliquez sur le premier lien menant au site officiel.
-![image](https://github.com/user-attachments/assets/1ccf4f37-2f62-46bd-ad94-1e6fe705da85)
+Ouvrez votre navigateur internet, recherchez **"LM Studio"** dans un moteur de recherche, puis [cliquez sur le lien menant au site officiel](https://lmstudio.ai).
 
 ## Étape 2  
 Une fois sur le site officiel, cliquez sur le bouton **"Download for Windows"** pour lancer le téléchargement.
