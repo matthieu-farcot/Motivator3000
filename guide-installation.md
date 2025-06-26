@@ -49,7 +49,7 @@ Copiez-collez le [**System Prompt**](./system-prompt.txt) disponible sur la page
 ![image](https://github.com/user-attachments/assets/1c8399e1-7b49-4c3f-99bc-0855f60d574d)
 
 ## Étape 11  
-Une fois le **System Prompt** en place, vous pouvez commencer à utiliser le chatbot avec le modèle sélectionné.
+Une fois le **System Prompt** en place, vous pouvez commencer à utiliser Motivator 3000.
 
 ![image](https://github.com/user-attachments/assets/a60eaddb-2f42-4685-b788-907be4380d63)
 
