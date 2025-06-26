@@ -8,6 +8,8 @@ Motivator 3000 est un projet du *Cormont Computer Club* du lycée Louis de Cormo
 
 # Introduction au projet
 
+**Le lien pour télécharger la démo avec le guide d'installation est en bas de la page.**
+
 ## Pourquoi l’usage "générique" de l’IA par les lycéens ne suffit pas
 Avec la généralisation des outils d’intelligence artificielle accessibles en ligne, de nombreux lycéens ont commencé à utiliser des modèles comme ChatGPT, Gemini ou d’autres assistants IA pour générer leurs CV ou leurs lettres de motivation. Si cette démarche est compréhensible et peut sembler rassurante, elle pose plusieurs limites majeures.
 
@@ -61,12 +63,6 @@ La plateforme Motivator 3000 a été conçue précisément pour répondre à ces
 En combinant la puissance de l’intelligence artificielle avec (à terme) une architecture RAG (Retrieval-Augmented Generation) et un ancrage fort dans les parcours des lycéens, Motivator 3000 permettra enfin de produire des lettres et des CV crédibles, valorisants et réellement adaptés aux ambitions de chaque élève.
 
 C’est une solution concrète pour accompagner les jeunes dans leurs premières démarches professionnelles — sans copier-coller impersonnel, sans cloud, et sans renoncer à l’exigence de qualité.
-
-# Accès à la béta
-
-<img width="250" alt="image" src="https://github.com/user-attachments/assets/1820ecb5-ba88-4eaf-9259-c02d61c28eca" />
-
-La procédure d'installation et de configuration du [Motivator 3000 est par ici...](./guide-installation.md)
 
 # Pourquoi ce nom ?
 <img align="right" src="./pictures/motivator3000_SM.png" height="500">
@@ -159,6 +155,12 @@ Résultat : Les prompts bien structurés améliorent la pertinence, mais ne suf
 - Matthieu Farcot, Lycée Louis de Cormontaigne : Responsable de projet, Création site web, Création ressources graphiques, Choix plateforme
 - Enzo Theveniaud, stagiaire 2PRO TNE (Transition Numérique et Enérgétique), Lycée Louis de Cormontaigne : Benchmarks, Recherche sur le system prompt, Travail sur le démonstrateur, génération des ressources de test
 - Cédric Willigsecker Miot, stagiaire 2PRO TNE (Transition Numérique et Enérgétique), Lycée Louis de Cormontaigne : Modèle 3D du logo, Intégration A-Frame
+
+# Accès à la béta
+
+<img width="250" alt="image" src="https://github.com/user-attachments/assets/12833566-81ba-46db-aeec-76e8ba3462bb" />
+
+La procédure d'installation et de configuration du [Motivator 3000 est par ici...](./guide-installation.md)
 
 # Licence et propriété intellectuelle
 Motivator 3000 - l'assistant numérique pour une pfmp réussie
