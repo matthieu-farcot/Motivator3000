@@ -158,7 +158,7 @@ Résultat : Les prompts bien structurés améliorent la pertinence, mais ne suf
 
 # Accès à la béta
 
-<img width="250" alt="image" src="https://github.com/user-attachments/assets/12833566-81ba-46db-aeec-76e8ba3462bb" />
+<img width="250" alt="image" src="https://github.com/user-attachments/assets/9d158a0d-2bbd-4058-8524-18db7f85c17d" />
 
 La procédure d'installation et de configuration du [Motivator 3000 est par ici...](./guide-installation.md)
 
