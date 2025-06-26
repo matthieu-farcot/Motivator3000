@@ -1,5 +1,3 @@
-# Motivator 3000
-
 *L’assistant IA local et libre pour aider les lycéens à briller dans l’écosystème des stages professionnels.*
 
 ![Logo](./pictures/Motivator3000-Logo1.png "Logo")
