@@ -28,21 +28,35 @@ Cette standardisation garantit une interopérabilité pédagogique et une contin
 
 ## Anna Logie
 
-<img align="right" src="https://github.com/user-attachments/assets/80503c4d-f916-4101-805e-064c69a92dcc" height="500">
+<img align="right" src="https://github.com/user-attachments/assets/80503c4d-f916-4101-805e-064c69a92dcc" height="200">
+Anna Logie a 16 ans. Elle est en première Bac Pro CIEL au lycée Louis de Cormontaigne à Metz.
 
-Anna Logie est en première CIEL au lycée Louis de Cormontaigne à Metz, une filière exigeante centrée sur la cybersécurité, l’informatique, l’électronique et les réseaux. Et elle y a trouvé exactement ce qu’elle cherchait : un cadre rigoureux où l’on ne se contente pas d’apprendre à coder, mais où l’on comprend comment penser, protéger, et faire dialoguer les machines.
+Elle aime bien bricoler les câbles, comprendre comment fonctionnent les réseaux, et toucher à l’informatique. Ce qu’elle préfère, c’est quand il faut manipuler, monter un circuit, ou régler un souci sur une machine.
 
-Ce qui la caractérise avant tout, c’est son esprit méthodique. Anna est de celles qui prennent le temps de comprendre avant d’agir. Posée, concentrée, elle aime quand les choses sont claires et bien structurées. Elle garde toujours un carnet sur elle, où elle note ses idées, ses erreurs, des morceaux de code, ou des schémas de systèmes.
+Elle n’est pas la plus forte en cours, mais elle écoute, elle apprend, et elle s’en sort bien quand c’est concret. Pas très à l’aise à l’oral, pas fan des exposés, mais quand il faut aider un camarade à dépanner un PC ou rebrancher un truc, elle est là.
 
-Mais derrière ce calme apparent, Anna a une vraie curiosité technique, presque instinctive. Elle aime démonter un routeur pour comprendre comment les flux circulent, écrire des scripts en Python pour automatiser des tâches, ou monter un petit pare-feu sur un Raspberry Pi pour s'entraîner. Elle est fascinée par l’idée que le numérique est à la fois invisible et omniprésent — et que la cybersécurité, bien souvent, tient à une simple mauvaise configuration.
+Tranquille, discrète, mais pas fermée. Anna, c’est une élève normale, qui avance à son rythme, et qui veut juste un métier stable dans un domaine qui lui plaît.
 
-Plutôt introvertie, Anna ne cherche pas à être au centre de l’attention. Elle préfère les discussions en petits groupes, surtout avec des personnes qui partagent ses intérêts. Elle aime les défis techniques, mais surtout ceux où il faut comprendre comment un système peut être attaqué… puis défendu. Son rêve à long terme serait de devenir analyste en cybersécurité, ou pentester éthique — pas pour “hacker le monde”, mais pour le rendre plus sûr.
 
-En cours, elle est solide. Elle ne lève pas souvent la main, mais ses travaux sont rigoureux. Ses professeurs disent d’elle qu’elle “ne parle pas beaucoup, mais qu’elle fait toujours mouche”. Elle participe volontiers aux projets collaboratifs, à condition qu’il y ait du concret à la clé — pas juste du blabla. Elle aime apprendre en faisant.
 
-Chez elle, elle a monté un petit labo : un vieil ordinateur reconverti en serveur Linux, quelques composants électroniques, un fer à souder, des tutos imprimés. Elle ne joue pas aux jeux vidéo comme la plupart de ses camarades, ou alors uniquement à ceux où elle peut coder ses propres mods ou scripts.
 
-Son cercle d’amis est restreint, mais solide. Elle est proche de deux camarades de classe, avec qui elle partage un serveur privé pour tester des configurations réseau et faire de la veille en cybersécurité. Ils se lancent parfois des défis : “trouve la faille dans ce système en moins de 10 minutes” ou “protège ce serveur contre trois types d’attaque”.
+## Lenny Talie
 
-Anna Logie n’est pas là pour “briller”. Elle avance avec discrétion, mais avec une vraie vision : celle d’un futur numérique plus sécurisé, plus éthique, plus humain. Et tout porte à croire qu’elle s’y fera une place.
+<img align="right" src="https://github.com/user-attachments/assets/0265d4e6-7c67-406c-ada0-0d1f29e613ec" height="200">
+Lenny Talie a 17 ans et termine sa terminale bac pro MELEC au lycée Louis de Cormontaigne à Metz. Depuis la seconde, il s’est passionné pour l’électricité, un domaine qu’il trouve “logique, concret, utile”. Dans l’atelier du lycée, il est à l’aise : tirage de câbles, pose d’appareillages, lecture de plans… c’est là qu’il se sent à sa place.
+
+Lenny n’est pas du genre à faire des grands discours, mais il est régulier, discret et sérieux. Ses professeurs apprécient sa rigueur et sa capacité à travailler en autonomie. Il a effectué plusieurs PFMP en entreprise pendant son bac pro, notamment dans une PME locale spécialisée en installation électrique dans le tertiaire. C’est là qu’il a compris qu’il voulait aller plus loin.
+
+Plutôt que de partir directement en entreprise après le bac, Lenny veut poursuivre en BTS Électrotechnique en apprentissage. Il veut consolider ses bases, apprendre à dimensionner des installations plus complexes, et surtout se rapprocher du métier de technicien. L’alternance l’attire : “apprendre à l’école, appliquer sur le terrain, c’est comme ça que je retiens le mieux”.
+
+
+
+## Frank Roissant
+<img align="right" src="https://github.com/user-attachments/assets/eff609c2-8440-4963-bb13-b17ab570b790" height ="200">
+Frank Roissant, 15 ans, est un élève de seconde pro TNE au lycée Louis de Cormontaigne à Metz. Curieux de nature, il s’est orienté vers cette filière pour comprendre comment fonctionnent les technologies qui nous entourent, des panneaux solaires aux réseaux informatiques.
+
+Toujours en basket et sac à dos en bandoulière, Frank est un peu discret mais très observateur. Il adore démonter de vieux appareils chez lui pour voir comment tout est câblé à l’intérieur. Son rêve ? Travailler plus tard dans la domotique ou les énergies renouvelables, “quelque chose d’utile et concret”, comme il le dit.
+
+
+
 
