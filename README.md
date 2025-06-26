@@ -79,13 +79,13 @@ En résumé, Motivator 3000, c’est un nom qui :
  
 # Objectif du projet
 Développer un assistant logiciel local et libre, capable d’aider les lycéens de la voie professionnelle à :
+
 - rédiger des CV valorisants et bien structurés,
 - produire des lettres de motivation personnalisées à partir d’annonces de stage ou d’alternance,
 - mettre en avant les compétences issues de leurs référentiels de formation.
  
 ## Un assistant boosté à l’IA (mais en local)
 Le cœur de Motivator 3000 repose sur une IA embarquée, renforcée par une architecture RAG (Retrieval-Augmented Generation).
-
 
 Le système permet à l’IA de générer des textes contextualisés à partir :
 - des référentiels officiels des filières professionnelles,
@@ -96,6 +96,7 @@ Le système permet aussi à l'IA de donner des conseils : en soumettant un cv et
  
 ## RGPD : priorité absolue
 Motivator 3000 fonctionne 100% en local, sans traitement distant, afin de garantir :
+
 - le respect du RGPD, en particulier pour les élèves mineurs (certains des élèves considérés ont moins de 16 ans),
 - la maîtrise complète des données, sans cloud, sans inscription, sans tracking,
 - la possibilité de déploiement même sans connexion internet (réseau local ou poste unique),
@@ -103,6 +104,7 @@ Motivator 3000 fonctionne 100% en local, sans traitement distant, afin de garan
  
 ## Open Source et licence libre
 Tous les développements sont publiés sous [AGPL v3](./Licence.txt), pour permettre :
+
 - aux autres lycées et structures de déployer librement l’outil,
 - aux enseignants, responsables de BDE ou DDFPT et développeurs de l’adapter et l’enrichir (par exemple avec d'autres référentiels académiques pour l'adapter à d'autres secteurs de formation),
 - à la communauté de partager les améliorations en toute liberté.
