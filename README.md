@@ -8,6 +8,8 @@ Motivator 3000 est un projet du *Cormont Computer Club* du lycée Louis de Cormo
 
 # Accès à la béta
 
+<img width="250" alt="image" src="https://github.com/user-attachments/assets/1820ecb5-ba88-4eaf-9259-c02d61c28eca" />
+
 La procédure d'installation et de configuration du [Motivator 3000 est par ici...](./guide-installation.md)
 
 # Introduction au projet
