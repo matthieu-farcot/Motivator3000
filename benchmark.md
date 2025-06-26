@@ -126,7 +126,7 @@ Acceptable
 ## Evaluation de la vitesse pour générer une lettre de motivation
 
 - lente
-- 
+
 ## Exemple de lettre générée
 ```
 Anna Logie
@@ -217,7 +217,7 @@ Anna Logie
 
 ```
 # Compatibilité avec le system prompt
-Déshonorant
+Déshonorant (le systèm prompt indiquait clairement de ne pas utiliser d'emojis. L'ordre a été ignoré.)
 
 
 
