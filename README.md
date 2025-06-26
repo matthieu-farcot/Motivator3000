@@ -6,12 +6,6 @@
 
 Motivator 3000 est un projet du *Cormont Computer Club* du lycée Louis de Cormontaigne (Metz).
 
-# Accès à la béta
-
-<img width="250" alt="image" src="https://github.com/user-attachments/assets/1820ecb5-ba88-4eaf-9259-c02d61c28eca" />
-
-La procédure d'installation et de configuration du [Motivator 3000 est par ici...](./guide-installation.md)
-
 # Introduction au projet
 
 ## Pourquoi l’usage "générique" de l’IA par les lycéens ne suffit pas
@@ -67,6 +61,12 @@ La plateforme Motivator 3000 a été conçue précisément pour répondre à ces
 En combinant la puissance de l’intelligence artificielle avec (à terme) une architecture RAG (Retrieval-Augmented Generation) et un ancrage fort dans les parcours des lycéens, Motivator 3000 permettra enfin de produire des lettres et des CV crédibles, valorisants et réellement adaptés aux ambitions de chaque élève.
 
 C’est une solution concrète pour accompagner les jeunes dans leurs premières démarches professionnelles — sans copier-coller impersonnel, sans cloud, et sans renoncer à l’exigence de qualité.
+
+# Accès à la béta
+
+<img width="250" alt="image" src="https://github.com/user-attachments/assets/1820ecb5-ba88-4eaf-9259-c02d61c28eca" />
+
+La procédure d'installation et de configuration du [Motivator 3000 est par ici...](./guide-installation.md)
 
 # Pourquoi ce nom ?
 <img align="right" src="./pictures/motivator3000_SM.png" height="500">
