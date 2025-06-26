@@ -49,6 +49,9 @@ Plus largement, autant la [CNIL](https://www.cnil.fr/fr/deux-faq-utilisation-des
 La raison est simple. La protection de la vie privée et des données personnelles n'est pas qu'une norme. Cela doit être une règle absolue (en accord avec le RGPD).
 
 ## Motivator 3000 : une réponse adaptée, locale et "intelligente"
+
+![Prototype sur LM Studio](./pictures/Motivator3000-Logo1.png "Prototype")
+
 La plateforme Motivator 3000 a été conçue précisément pour répondre à ces limites, en proposant un assistant IA :
 - contextualisé : il s’appuie sur les référentiels officiels des formations suivies par les élèves,
 - personnalisé : il tient compte du profil de chaque utilisateur et de l’annonce à laquelle il répond,
