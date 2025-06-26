@@ -22,27 +22,28 @@ Cette page a pour but de regrouper les resultats des benchmarks d'évaluation de
 
 A noter : cet ordinateur a été acheté avec le soutient de [CameXia](https://camexia.org).
 
+# Les moteurs d'IA utilisés
 
-# Gemma 3-12b
+## Gemma 3-12b
 
-## Editeur
+### Editeur
 
 Google
 
-## Licence
+### Licence
 
 [cliquez ici pour les termes de la licence](https://ai.google.dev/gemma/terms)
 
-## Quantité de RAM utilisée
+### Quantité de RAM utilisée
 
 ![Capture d'écran 2025-06-25 094252](https://github.com/user-attachments/assets/e6cfea18-6c7b-408c-b10e-9d99401955af)
 
 
-## Evaluation de la vitesse pour générer une lettre de motivation
+### Evaluation de la vitesse pour générer une lettre de motivation
 
 - très rapide
 
-## Exemple de lettre générée
+### Exemple de lettre générée
 ```
 Anna Logie
 220 Rue des Éléphants
@@ -72,32 +73,32 @@ Dans l’attente de votre réponse, je vous prie d'agréer, Madame, Monsieur, l'
 
 Anna Logie
 ```
-# Compatibilité avec le system prompt
+### Compatibilité avec le system prompt
 
 Acceptable
 
 
-# Qwen 3-14b
+## Qwen 3-14b
 
-## Editeur
+### Editeur
 
 Alibaba Cloud
 
-## Licence
+### Licence
 
 [cliquez ici pour les termes de la licence](https://huggingface.co/Qwen/Qwen-14B/blob/main/LICENSE)
 
-## Quantité de RAM utilisée
+### Quantité de RAM utilisée
 
 ![image](https://github.com/user-attachments/assets/16bb1c39-5739-4c78-a23e-80d9063e2ef6)
 
 
-## Evaluation de la vitesse pour générer une lettre de motivation
+### Evaluation de la vitesse pour générer une lettre de motivation
 
 - très lente
 27.5 secondes
 
-## Exemple de lettre générée
+### Exemple de lettre générée
 ```
 À l’attention de l’équipe de recrutement de LDLC,
 
@@ -119,26 +120,26 @@ Lycée Louis de Cormontaigne – Metz
 
 06 01 02 2020 | 
 ```
-# Compatibilité avec le system prompt
+### Compatibilité avec le system prompt
 
 Acceptable
 
 
-# Mistral Small 3.2
+## Mistral Small 3.2
 
-## Licence
+### Licence
 
 [cliquez ici pour les termes de la licence](https://mistral.ai/fr/terms#terms-of-service)
 
-## Quantité de RAM utilisée
+### Quantité de RAM utilisée
 
 ![image](https://github.com/user-attachments/assets/710fac3f-af96-4914-a88c-20bf311d737a)
 
-## Evaluation de la vitesse pour générer une lettre de motivation
+### Evaluation de la vitesse pour générer une lettre de motivation
 
 - lente
 
-## Exemple de lettre générée
+### Exemple de lettre générée
 ```
 Anna Logie
 220 Rue des Éléphants
@@ -168,33 +169,34 @@ Dans l’attente de votre retour, je vous prie d’agréer, Madame, Monsieur, me
 
 Anna Logie
 ```
-# Compatibilité avec le system prompt
+### Compatibilité avec le system prompt
 
 Acceptable
 
 
-# Llama 3.3 70B 
-## **NON UTILISABLE**
+## Llama 3.3 70B 
+
+**NON UTILISABLE**
 
 A fait crasher notre ordinateur de tests... Il semblerait que 32 Gb de RAM soit trop juste.
 
-# Deepseek r1-0528
+## Deepseek r1-0528
 
-## Licence
+### Licence
 
 [cliquez ici pour les termes de la licence](https://cdn.deepseek.com/policies/en-US/deepseek-terms-of-use.html)
 
-## Quantité de RAM utilisée
+### Quantité de RAM utilisée
 
 ![image](https://github.com/user-attachments/assets/c1d6666d-a2cd-4ea9-ba38-f08e5ddd311b)
 
-## Evaluation de la vitesse pour générer une lettre de motivation
+### Evaluation de la vitesse pour générer une lettre de motivation
 
 - très rapide
 
 9.26 secondes
 
-## Exemple de lettre générée
+### Exemple de lettre générée
 ```
 Objet : Expression de candidature au titre d’une Période de Formation en Milieu Professionnel (PFMP)
 
@@ -227,7 +229,7 @@ Anna Logie
 📞 06.01.02.02.20 •📧 
 
 ```
-# Compatibilité avec le system prompt
+### Compatibilité avec le system prompt
 Déshonorant (le systèm prompt indiquait clairement de ne pas utiliser d'emojis. L'ordre a été ignoré.)
 
 
