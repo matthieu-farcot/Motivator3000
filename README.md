@@ -6,6 +6,10 @@
 
 Motivator 3000 est un projet du *Cormont Computer Club* du lycée Louis de Cormontaigne (Metz).
 
+# Accès à la béta
+
+La procédure d'installation et de configuration du [Motivator 3000 est par ici...](./guide-installation.md)
+
 # Introduction au projet
 
 ## Pourquoi l’usage "générique" de l’IA par les lycéens ne suffit pas
