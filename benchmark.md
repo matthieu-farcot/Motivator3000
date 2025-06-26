@@ -18,7 +18,7 @@ Cette page a pour but de regrouper les resultats des benchmarks d'évaluation de
 - Processeur	12th Gen Intel(R) Core(TM) i7-12700K, 3.60 GHz
 - Mémoire RAM installée	32 Go 
 - Type du système	Système d’exploitation 64 bits, processeur x64
-- Carte graphique NVIDIA GeForce RTX 3060
+- Carte graphique NVIDIA GeForce RTX 3060 12 Go
 
 A noter : cet ordinateur a été acheté avec le soutient de [CameXia](https://camexia.org).
 
