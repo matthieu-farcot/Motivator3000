@@ -50,7 +50,7 @@ La raison est simple. La protection de la vie privée et des données personnell
 
 ## Motivator 3000 : une réponse adaptée, locale et "intelligente"
 
-![Prototype sur LM Studio](./pictures/Screen3LMStudio.png "Prototype")
+![Prototype sur LM Studio](./pictures/Screen4LMStudio.png "Prototype")
 
 La plateforme Motivator 3000 a été conçue précisément pour répondre à ces limites, en proposant un assistant IA :
 - contextualisé : il s’appuie sur les référentiels officiels des formations suivies par les élèves,
