@@ -149,7 +149,11 @@ Actions menées :
 
 Résultat : Les prompts bien structurés améliorent la pertinence, mais ne suffisent pas en l’absence de connaissance métier spécifique au contexte du lycée professionnel. D’où la nécessité d’implémenter un système RAG avec accès aux référentiels académiques des matières professionnelles enseignées au Lycée Louis de Cormontaigne (Metz). Ceci sera la prochaine étape du projet.
 
+# L'équipe projet
 
+- Matthieu Farcot, Lycée Louis de Cormontaigne : Responsable de projet, Création site web, Création ressources graphiques, Choix plateforme
+- Enzo Theveniaud, stagiaire 2PRO TNE (Transition Numérique et Enérgétique), Lycée Louis de Cormontaigne : Benchmarks, Recherche sur le system prompt, Travail sur le démonstrateur
+- Cédric Willigsecker Miot, stagiaire 2PRO TNE (Transition Numérique et Enérgétique), Lycée Louis de Cormontaigne : Modèle 3D du logo, Intégration A-Frame
 
 # Licence et propriété intellectuelle
 Motivator 3000 - l'assistant numérique pour une pfmp réussie
