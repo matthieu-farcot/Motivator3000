@@ -110,6 +110,9 @@ Tous les développements sont publiés sous [AGPL v3](./Licence.txt), pour perm
 - à la communauté de partager les améliorations en toute liberté.
 
 # Motivator 3000, le point sur le projet :
+
+<img width="250" alt="Capture d’écran 2025-06-30 à 14 16 54" src="https://github.com/user-attachments/assets/f5455ea7-b59c-4c44-9de0-dbc2a8bf4941" />
+
 Ce qui a été fait pour l’instant, ou est en cours de réalisation...
  
 ## Exploration des modèles IA open source adaptés à un usage local
