@@ -26,7 +26,7 @@ Dans notre lycée, le référentiel TNE est une introduction qui combine environ
 **Compétences clés :**  
 - Initiation aux principes de l’électricité, de l’électronique et des systèmes automatisés  
 - Premiers apprentissages en câblage et lecture de schémas simples (notions MELEC)  
-- Introduction à l’informatique industrielle, aux réseaux de base et à la cybersécurité élémentaire (notions CIEL)  
+- Introduction à l’informatique, aux réseaux de base et à la cybersécurité élémentaire (notions CIEL)  
 - Utilisation d’outils numériques pour la mesure, le contrôle et la gestion d’équipements techniques  
 - Respect des règles de sécurité électrique et informatique, et sensibilisation aux normes environnementales  
 - Travail en équipe, communication technique basique
@@ -42,8 +42,7 @@ Cette filière forme aux métiers de la sécurisation des systèmes informatique
 - Administration de systèmes d’exploitation (Windows, Linux) et gestion des droits utilisateurs  
 - Développement de logiciels et de programmes embarqués, en lien avec l’électronique  
 - Diagnostic et maintenance des matériels électroniques et informatiques  
-- Analyse des risques liés à la cybersécurité, détection et gestion des incidents de sécurité  
-- Respect des règles de confidentialité, sécurité des données et réglementation informatique (RGPD)
+- Analyse basique des risques liés à la cybersécurité, détection et gestion des incidents de sécurité  
 
 ---
 
