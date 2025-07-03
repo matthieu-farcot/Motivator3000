@@ -65,7 +65,7 @@ C’est une solution concrète pour accompagner les jeunes dans leurs premières
 # Pourquoi ce nom ?
 <img align="right" src="./pictures/motivator3000_SM.png" height="500">
 
-Motivator 3000 est un clin d’œil assumé à l’esthétique rétro-futuriste des films de science-fiction de série B et des jeux vidéo vintage des années 80-90. Ce nom a été choisi pour plusieurs raisons stratégiques :
+Motivator 3000 est un clin d’œil assumé à l’esthétique rétro-futuriste des films de science-fiction de série B et des jeux vidéo vintage des années 80-90.  Ce nom a été choisi pour plusieurs raisons stratégiques :
 
 - Le rétro-gaming et l’univers néo-vintage sont très populaires chez les jeunes générations, en particulier chez les lycéens intéressés par les filières techniques ou numériques. Cela crée un lien culturel immédiat avec l’univers visuel et affectif des publics cibles.
 - C’est aussi un clin d’œil ludique aux générations plus âgées, encadrants pédagogiques et développeurs, qui y verront une référence ironique aux titres comme RoboCop ou Megatron 3000.
