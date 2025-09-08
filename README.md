@@ -134,7 +134,7 @@ Critères évalués :
 - Capacité à suivre les instructions (system prompt)
 - Influence des réglages de temperature du modèle (influence sur le niveau de créativité)
 
-Pour retrouver ces évaluation, [rendez-vous sur la page dédiée](./benchmark.md).
+Pour retrouver ces évaluations, [rendez-vous sur la page dédiée](./benchmark.md).
  
 Constat :  Malgré des performances linguistiques solides, les réponses produites par les modèles testés sont trop déterministes et génériques.
  Les lettres générées manquent de variabilité, d’originalité et surtout de prise en compte réelle du contexte scolaire et professionnel des lycéens. On observe que, quelle que soit l’annonce ou le profil fourni, les lettres finissent par se ressembler fortement, avec des tournures stéréotypées et un contenu souvent creux. Toutefois, vu les performances et les résultats obtenus, le choix pour l'instant porte sur Gemma-3-12b de google.
