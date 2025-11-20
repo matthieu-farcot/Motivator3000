@@ -153,6 +153,14 @@ Actions menées :
 
 Résultat : Les prompts bien structurés améliorent la pertinence, mais ne suffisent pas en l’absence de connaissance métier spécifique au contexte du lycée professionnel. D’où la nécessité d’implémenter un système RAG avec accès aux référentiels académiques des matières professionnelles enseignées au Lycée Louis de Cormontaigne (Metz). Ceci sera la prochaine étape du projet.
 
+## Nouveau : Reflexions sur les pistes d'évolutions
+
+Piste 1 : Intégrer les évaluations CPRO dans la structure des CVs, afin d'identifier les compétences appliquées des élèves et produire des CVs représentatifs des réelles capacités techniques (intérêt de pouvoir structurer automatiquement le "ce que je sais faire" par rapport au "ce que je pense savoir faire")
+- Problèmes : Gestion de l'export et du XML (à creuser)
+
+Piste 2 : Intégrer la possibilité d'utiliser différents moteurs d'IA afin de briser l'homogénéité des CVs proposés
+
+
 # L'équipe projet
 
 - Matthieu Farcot, Lycée Louis de Cormontaigne : Responsable de projet, Création site web, Création ressources graphiques, Choix plateforme, Encadrement
